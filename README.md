@@ -7,7 +7,11 @@ You can install any deb file just by clicking on it
 
 
 ## Get Started
-Save the following Python script as installdeb.py in your desired directory, for example, /home/your_username/installdeb.py.
+Save the following Python script as installdeb.py in your desired directory, for example
+
+```
+/home/your_username/installdeb.py
+```
 <br /><br />
 
 ## Create file 
