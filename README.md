@@ -18,7 +18,7 @@ nano ~/.local/share/applications/open_deb.desktop
 
 [Desktop Entry]
 Name=Lkt install
-Exec=python3 /home/root/installdeb.py %f
+Exec=python3 /home/your_username/installdeb.py %f
 Type=Application
 MimeType=application/vnd.debian.binary-package
 ```
