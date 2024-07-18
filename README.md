@@ -1,14 +1,13 @@
 
 ## Install deb By Tkinter:
 You can install any deb file just by clicking on it
-## Get Started
-Save the following Python script as installdeb.py in your desired directory, for example, /home/your_username/installdeb.py.
-    
 
 ## Screenshot:
 ![pic1](https://i.ibb.co/0YtCvqT/photo-2024-07-18-02-15-09.jpg)
 
 
+## Get Started
+Save the following Python script as installdeb.py in your desired directory, for example, /home/your_username/installdeb.py.
 <br /><br />
 
 ## Create file 
